@@ -55,3 +55,6 @@ Repository for the S&P500 Forecast Project
 
 - Fitted a prophet model to predict 1 year of stock prices (until June 2022)
 - Plotted interative widgets to visualise the prices
+
+![Predictor Interface](https://github.com/edologgerbird/SP500-forecast/blob/main/assets/screenshot0.png "Predictor Interface")
+![Predictor Interface](https://github.com/edologgerbird/SP500-forecast/blob/main/assets/screenshot1.png "Predictor Interface")
