@@ -1,4 +1,4 @@
-# S&P500-forecast
+# S&P500 Closing Price Forecast
 
 ## Project Overview
 
